@@ -6,9 +6,7 @@ We investigate the control synthesis problem for Markov decision processes (MDPs
 
 ## Demonstration
 
-<video width="800" height=auto controls>
-  <source src="https://github.com/WSQsGithub/STL-CFER/assets/70429350/a082ead3-2e10-403f-8618-c7d2a0c35543" type="video/mp4">
-</video>
+[![Video]()](https://github.com/WSQsGithub/STL-CFER/assets/70429350/a082ead3-2e10-403f-8618-c7d2a0c35543)
 
 
 ## Comment
