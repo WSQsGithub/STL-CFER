@@ -1,4 +1,4 @@
-# Tractable Reinforcement Learning for Signal Temporal Logic Tasks with Counterfactual Experience Replay
+# Tractable Reinforcement Learning for Signal Temporal Logic Tasks with Counterfactual Experience Replays
 
 ## Abstract
 
