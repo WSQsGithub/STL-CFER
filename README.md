@@ -6,9 +6,7 @@ We investigate the control synthesis problem for Markov decision processes (MDPs
 
 ## Demonstration
 
-<video width="800" height=auto controls>
-  <source src="./video.mp4" type="video/mp4">
-</video>
+
 
 ## Comment
 
