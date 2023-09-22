@@ -6,7 +6,9 @@ We investigate the control synthesis problem for Markov decision processes (MDPs
 
 ## Demonstration
 
-[![Video]()](https://github.com/WSQsGithub/STL-CFER/blob/main/video.mp4)
+[![Video]()](https://github.com/WSQsGithub/TimeRobustLearning/assets/70429350/5e0114a4-abae-408d-8909-5cd21170de1a)
+
+
 ## Comment
 
 This paper has been summitted to ICRA 2024.
