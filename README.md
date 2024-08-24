@@ -11,4 +11,4 @@ We investigate the control synthesis problem for Markov decision processes (MDPs
 
 ## Comment
 
-This paper has been summitted to ICRA 2024.
+This paper has been accepted to L-CSS.
